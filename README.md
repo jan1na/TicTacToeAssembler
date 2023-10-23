@@ -54,7 +54,7 @@ Es gibt keinen Gewinner.
 
 ## Game with 1 Player
 
-I programmed another assembler file, which allows to play TicTacToe on your own against an "AI". This AI is based on rules to make the best desicions for each case (I hope I did not forget a case). It is the `tictactoe2.s` file which can be compiled using:
+I programmed another assembler file, which allows to play TicTacToe on your own against an rule-based AI. This AI is based on rules to make the best desicions for each case (I hope I did not forget a case). It is the `tictactoe2.s` file which can be compiled using:
 ```bash
 make ai
 ```
